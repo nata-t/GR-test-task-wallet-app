@@ -1,0 +1,104 @@
+[
+  {
+    "id": "tx_001",
+    "type": "credit",
+    "amount": 14.06,
+    "name": "Apple",
+    "description": "Card Number Used",
+    "date": "2026-03-31T14:10:00.000Z",
+    "pending": true,
+    "authorizedUser": "Diana",
+    "iconKey": "apple"
+  },
+  {
+    "id": "tx_002",
+    "type": "payment",
+    "amount": 174,
+    "name": "Payment",
+    "description": "From JPMorgan Chase Bank National Association",
+    "date": "2026-03-30T09:22:00.000Z",
+    "pending": false,
+    "iconKey": "bank"
+  },
+  {
+    "id": "tx_003",
+    "type": "credit",
+    "amount": 3.24,
+    "name": "Apple",
+    "description": "Card Number Used",
+    "date": "2026-03-30T08:05:00.000Z",
+    "pending": false,
+    "authorizedUser": "Diana",
+    "iconKey": "apple"
+  },
+  {
+    "id": "tx_004",
+    "type": "payment",
+    "amount": 99.71,
+    "name": "Payment",
+    "description": "From JPMorgan Chase Bank National Association",
+    "date": "2026-03-28T13:40:00.000Z",
+    "pending": false,
+    "iconKey": "bank"
+  },
+  {
+    "id": "tx_005",
+    "type": "payment",
+    "amount": 73.58,
+    "name": "Payment",
+    "description": "From JPMorgan Chase Bank National Association",
+    "date": "2026-03-23T18:05:00.000Z",
+    "pending": false,
+    "iconKey": "bank"
+  },
+  {
+    "id": "tx_006",
+    "type": "credit",
+    "amount": 21.61,
+    "name": "IKEA",
+    "description": "Round Rock, TX",
+    "date": "2026-02-10T16:30:00.000Z",
+    "pending": false,
+    "iconKey": "store"
+  },
+  {
+    "id": "tx_007",
+    "type": "credit",
+    "amount": 73.58,
+    "name": "Target",
+    "description": "Cedar Park, TX",
+    "date": "2025-10-01T10:15:00.000Z",
+    "pending": false,
+    "iconKey": "bullseye"
+  },
+  {
+    "id": "tx_008",
+    "type": "credit",
+    "amount": 7.5,
+    "name": "Airalo",
+    "description": "RBC Bank Debit Card",
+    "date": "2025-05-26T12:47:00.000Z",
+    "pending": false,
+    "iconKey": "sim"
+  },
+  {
+    "id": "tx_009",
+    "type": "credit",
+    "amount": 42.19,
+    "name": "Uber",
+    "description": "Trip",
+    "date": "2025-08-12T20:11:00.000Z",
+    "pending": false,
+    "iconKey": "car"
+  },
+  {
+    "id": "tx_010",
+    "type": "payment",
+    "amount": 250,
+    "name": "Payment",
+    "description": "From Bank Transfer",
+    "date": "2025-12-03T11:02:00.000Z",
+    "pending": false,
+    "iconKey": "bank"
+  }
+]
